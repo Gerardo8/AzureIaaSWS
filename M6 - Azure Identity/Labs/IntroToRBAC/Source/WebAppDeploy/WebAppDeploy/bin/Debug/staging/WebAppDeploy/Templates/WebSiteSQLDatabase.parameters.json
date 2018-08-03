@@ -1,0 +1,27 @@
+﻿{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "hostingPlanName": {
+            "value": "plantesttr"
+        },
+      "administratorLogin": {
+        "value": "shaunp"
+      },
+      "databaseName": {
+        "value": "memberdb"
+      },
+        "skuName": {
+            "value": "S1"
+        },
+      "administratorLoginPassword": {
+        "value": "P@55word1"
+      },
+      "msdeployPackageFolder": {
+        "value": "msWebAppSite"
+      },
+      "msdeployPackageFileName": {
+        "value": "package.zip"
+      }
+    }
+}

@@ -1,0 +1,2 @@
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\WebAppDeploy\obj\Debug\WebAppDeploy.deployprojResolveAssemblyReference.cache
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\WebAppDeploy\obj\Debug\WebAppDeploy.deployproj.CoreCompileInputs.cache

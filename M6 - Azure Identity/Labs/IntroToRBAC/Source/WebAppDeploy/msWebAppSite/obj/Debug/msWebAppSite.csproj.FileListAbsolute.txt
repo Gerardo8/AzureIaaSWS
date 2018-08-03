@@ -1,0 +1,165 @@
+C:\Source\WebAppDeploy\msWebAppSite\bin\ApplicationInsights.config
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\csc.exe
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\vbc.exe
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\VBCSCompiler.exe
+C:\Source\WebAppDeploy\msWebAppSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Source\WebAppDeploy\msWebAppSite\bin\msWebAppSite.dll.config
+C:\Source\WebAppDeploy\msWebAppSite\bin\msWebAppSite.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\msWebAppSite.pdb
+C:\Source\WebAppDeploy\msWebAppSite\bin\Antlr3.Runtime.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\EntityFramework.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\EntityFramework.SqlServer.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.Web.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.ApplicationInsights.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Newtonsoft.Json.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Owin.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Helpers.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Mvc.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Optimization.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Razor.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.Deployment.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.Razor.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\WebGrease.dll
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.Web.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.ApplicationInsights.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Helpers.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Mvc.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Optimization.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Razor.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.Deployment.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.Razor.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Antlr3.Runtime.pdb
+C:\Source\WebAppDeploy\msWebAppSite\bin\Newtonsoft.Json.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\EntityFramework.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\EntityFramework.SqlServer.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Source\WebAppDeploy\msWebAppSite\obj\Debug\msWebAppSite.csprojResolveAssemblyReference.cache
+C:\Source\WebAppDeploy\msWebAppSite\obj\Debug\msWebAppSite.dll
+C:\Source\WebAppDeploy\msWebAppSite\obj\Debug\msWebAppSite.pdb
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\ApplicationInsights.config
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\csc.exe
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\vbc.exe
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\VBCSCompiler.exe
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\msWebAppSite.dll.config
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\msWebAppSite.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\msWebAppSite.pdb
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Antlr3.Runtime.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\EntityFramework.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\EntityFramework.SqlServer.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.Web.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.ApplicationInsights.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Google.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Newtonsoft.Json.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Owin.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Helpers.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Mvc.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Optimization.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Razor.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.Deployment.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.Razor.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\WebGrease.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.Web.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.ApplicationInsights.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Helpers.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Mvc.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Optimization.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.Razor.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.Deployment.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\System.Web.WebPages.Razor.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Antlr3.Runtime.pdb
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Newtonsoft.Json.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\EntityFramework.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\EntityFramework.SqlServer.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Google.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\obj\Debug\msWebAppSite.csprojResolveAssemblyReference.cache
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\obj\Debug\msWebAppSite.dll
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\obj\Debug\msWebAppSite.pdb
+C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\obj\Debug\msWebAppSite.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\obj\Debug\Package\PackageTmp" />
+  <setAcl path="C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Data\Workshops\IaaS_V2\M6 - Azure Identity\Labs\IntroToRBAC\Source\WebAppDeploy\msWebAppSite\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/msWebAppSite_deploy" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-msWebAppSite-20160601024924.mdf;Initial Catalog=aspnet-msWebAppSite-20160601024924;Integrated Security=True" />
+</parameters>
